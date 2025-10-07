@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm @ElmanZ</h1>
-<h3 align="center">A passionate back-end developer from Russia</h3>
+<h3 align="center">A passionate developer from Russia</h3>
 
 
 - I’m currently working on **Web Server in C**
